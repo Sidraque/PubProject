@@ -1,5 +1,4 @@
-package PersonUser;
-
+package Persons;
 public class User {
 
 }
